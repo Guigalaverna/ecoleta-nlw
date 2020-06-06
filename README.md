@@ -7,6 +7,6 @@ Projeto realizado durante a Next Level Week, o projeto consiste em um site em qu
 ## Tecnologias Usadas:
 
 - [Nunjuncks](https://mozilla.github.io/nunjucks/) (Template Engine)
- - [Node.JS](nodejs.org) (Runtime JavaScript)
+ - [Node.JS](https://nodejs.org) (Runtime JavaScript)
  - [SQLite](https://mozilla.github.io/nunjucks/) (Banco de Dados Relacional)
 
